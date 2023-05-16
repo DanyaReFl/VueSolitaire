@@ -28,7 +28,6 @@
 
 <img src="./readme_assets/h2.png" width="100%">
 
-<h2 align="center"><a  href="https://solitairevue.firebaseapp.com">Live Demo</a></h2>
 
 ### [Contributions are Welcome](https://github.com/silent-lad/VueSolitaire/blob/master/CONTRIBUTING.md)
 
